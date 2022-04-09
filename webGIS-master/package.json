@@ -15,7 +15,7 @@
     "lodash.min": "^4.0.1",
     "lodash.reduce": "^4.6.0",
     "mapbox-gl": "^0.51.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-leaflet": "^2.1.0",
